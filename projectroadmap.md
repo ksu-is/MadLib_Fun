@@ -1,4 +1,4 @@
-1. Come up with project ideas- Amy - **DONE** - Mad Libs
+1. [] Come up with project ideas- Amy - **DONE** - Mad Libs
 2. Create repository in GitHub and link it to the KSU-IS- Amy- **DONE**- MadLib_Fun 
 3. Create a readme and project road map in my repository- Amy- **DONE** 
 4. Find a fun Mad Lib to use for the print statements- Amy
