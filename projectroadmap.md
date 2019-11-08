@@ -1,10 +1,10 @@
-- [X]  Come up with project ideas- ##Amy - **Mad Libs**
-- [X]  Create repository in GitHub and link it to the KSU-IS- Amy- **MadLib_Fun**  
-- [X]  Create a readme and project road map in my repository- Amy
-- [ ]  Find a fun Mad Lib to use for the print statements- Amy
-- [ ]  Create input statements to use- Amy
-- [ ]  Run thru the code line by line to make sure it works- Amy
-- [ ]  Create PowerPoint slide for sprint 3- Amy
-- [ ]  Insert ASCII art to make the project look more appealing- Amy
-- [ ]  Run Final code to make sure it works correctly- Amy
-- [ ]  Create PowerPoint Presentation- Amy
+- [X]  Come up with project ideas- Mad Libs - **Amy**
+- [X]  Create repository in GitHub and link it to the KSU-IS-MadLib_Fun - **Amy**  
+- [X]  Create a readme and project road map in my repository - **Amy**
+- [ ]  Find a fun Mad Lib to use for the print statements - **Amy**
+- [ ]  Create input statements to use - **Amy**
+- [ ]  Run thru the code line by line to make sure it works - **Amy**
+- [ ]  Create PowerPoint slide for sprint 3 - **Amy**
+- [ ]  Insert ASCII art to make the project look more appealing - **Amy**
+- [ ]  Run Final code to make sure it works correctly - **Amy**
+- [ ]  Create PowerPoint Presentation - **Amy**
