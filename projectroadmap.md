@@ -1,4 +1,4 @@
-- [X]  Come up with project ideas- ##Amy## - **Mad Libs**
+- [X]  Come up with project ideas- ##Amy - **Mad Libs**
 - [X]  Create repository in GitHub and link it to the KSU-IS- Amy- **MadLib_Fun**  
 - [X]  Create a readme and project road map in my repository- Amy
 - [ ]  Find a fun Mad Lib to use for the print statements- Amy
