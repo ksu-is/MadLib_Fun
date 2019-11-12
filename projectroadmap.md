@@ -7,4 +7,4 @@
 7. - [ ]  Create PowerPoint slide for sprint 3 - **Amy**
 8. - [ ]  Insert ASCII art to make the project look more appealing - **Amy**
 9. - [ ]  Run Final code to make sure it works correctly - **Amy**
-10.- [ ]  Create PowerPoint Presentation - **Amy**
+10. - [ ]  Create PowerPoint Presentation - **Amy**
