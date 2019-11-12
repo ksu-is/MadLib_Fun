@@ -25,7 +25,7 @@ print("A vacation is when you take a trip to some", adjective1, "place with your
 def madlibs2():
     place1=input("name a place: ")
     
-def madlibs3()
+def madlibs3():
     adjective1=input("type a adjective: ")   
 
 def start():
