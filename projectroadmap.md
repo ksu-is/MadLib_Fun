@@ -1,7 +1,7 @@
 - [X]  Come up with project ideas- Mad Libs - **Amy**
 - [X]  Create repository in GitHub and link it to the KSU-IS-MadLib_Fun - **Amy**  
 - [X]  Create a readme and project road map in my repository - **Amy**
-- [ ]  Find a fun Mad Lib to use for the print statements - **Amy**
+- [X]  Find a fun Mad Lib to use for the print statements - **Amy**
 - [ ]  Create input statements to use - **Amy**
 - [ ]  Run thru the code line by line to make sure it works - **Amy**
 - [ ]  Create PowerPoint slide for sprint 3 - **Amy**
