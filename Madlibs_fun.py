@@ -26,7 +26,7 @@ def start():
         adjective3=input("name a adjective: ")
         number=input("type a number: ")
         pluralnoun4=input("type a plural noun: ")
-        print("A vacation is when you take a trip to some", adjective1, "place with your", adjective2)
+        print("A vacation is when you take a trip to some", adjective1, "place with your", adjective2, "family. Usually you go to some place that is near a/an", noun1, "or up on a/an", noun2, ". A good vacation place is one where you can ride", pluralnoun1, "or play", game,"or go hunting for",pluralnoun2,". I like to spend my time", verb1, "or", verb2, ". When parents go on vacation, they spend their time eating three", pluralnoun3, "a day, and fathers play golf, and mothers sit around", ver3, ". Last summer, my little brother fell in a/an", noun3, "and got poison", plant, "all over his", partofbody,". My family is going to go to (the)", place, ", and I will practice" ,verb4, ". Parents need vacations more than kids because parents are always very", adjective4, "and because they have to work", number,"hours every day all year making enough", pluralnoun4, "to pay for the vacation."
     elif story == '2':    
         place1=input("type a place: ")
         adjective1=input("type an adjective: ")
@@ -48,11 +48,11 @@ def start():
         adjective3=input("type an adjective: ")
         adjective4=input("type an adjective: ")
         pastverb=input("type a past tense verb: ")
-        print("Once upon a time, in a place called", place1, "there was a", adjective1, "princess named", femalecel, "." "Her kingdom was huge, but her" ,bodypart1)
-        
-        
+        print("Once upon a time, in a place called", place1, "there was a", adjective1, "princess named", femalecel, "." "Her kingdom was huge, but her" ,bodypart1)    
     elif story=='3':
-        
+        print("hello")
     else:
-        print('Not a valid character')
-start()
+        print("not a valid character")
+    
+ start()
+
