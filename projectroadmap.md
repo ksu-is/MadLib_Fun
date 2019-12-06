@@ -6,5 +6,5 @@
 6. - [X]  Run thru the code line by line to make sure it works - **Amy**
 7. - [X]  Create PowerPoint slide for sprint 3 - **Amy**
 8. - [X]  Run Final code to make sure it works correctly- **Amy**
-9. - [ ]  Take videos of each scenerios for the PowerPoint Presentation - **Amy**
-10. - [ ]  Create PowerPoint Presentation with audio- **Amy**
+9. - [X]  Take videos of each scenerios for the PowerPoint Presentation - **Amy**
+10. - [X]  Create PowerPoint Presentation with audio- **Amy**
